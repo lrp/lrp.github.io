@@ -24,12 +24,12 @@ CNAME                  # GitHub Pages custom domain config
 
 ## Sections and nav
 
-Nav: Home / About / Work / Recognition / Contact
+Nav: Home / About / Career / Contact
 
 - **Home** (`#home`): Hero with name and tagline
 - **About** (`#about`): Headshot + bio grid
-- **Work** (`#work`): Career history (Koddi, Capital One, OpenX, LIGO)
-- **Recognition** (`#recognition`): Breakthrough Prize, Gruber Prize
+- **Career** (`#career`): Koddi, Capital One, OpenX, Caltech (Senior Postdoc), University of Wisconsin-Milwaukee (Postdoc), University of Florida (PhD), Reed College (BA). Includes both professional history and education — no standalone Education section.
+- **Recognition** (`#recognition`): Breakthrough Prize, Gruber Prize. Section exists on the page but is not in the nav.
 - **Contact** (`#contact`): LinkedIn, Google Scholar, email
 
 ## Conventions
